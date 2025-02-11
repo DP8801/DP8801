@@ -8,7 +8,6 @@ I am currently enrolled in MEng Software Engineering and trying to get better ea
 
 * 🌍  I'm based in Montreal
 * ✉️  You can contact me at [devpandya651@gmail.com](mailto:devpandya651@gmail.com)
-* 🧠  I'm learning Web Dev
 
 ### Skills
 
